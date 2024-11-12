@@ -2,7 +2,7 @@
 layout: default
 ---
 
-I am a second-year Ph.D. student at the CS Department, Florida State University, under the supervision of **Prof. Kai Zhao**.
+I am a second-year Ph.D. student at the CS Department, Florida State University, under the supervision of [Prof. Kai Zhao](https://ayzk.github.io/).
 
 Apart from my research interests, I am proficient in web and mobile development, with a strong passion for technology. As an anime and game fan, I bring creativity and enthusiasm to my projects. Additionally, I am a video after-effects enthusiast.
 
