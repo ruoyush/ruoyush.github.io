@@ -30,7 +30,7 @@ description: > # this means to ignore newlines until "baseurl:"
   <br><br>
   <i class="fa fa-linkedin-square"></i> <a href="https://www.linkedin.com/in/ruoyuli/" target="_blank">Visit My LinkedIn</a>
   <br><br>
-  <i class="fa fa-graduation-cap" aria-hidden="true"></i> <a href="https://scholar.google.com/citations?user=J_1JzrQAAAAJ&hl=en" target="_blank">Visit My Google Scholar</a>
+  <i class="fa fa-graduation-cap" aria-hidden="true"></i><a href="https://scholar.google.com/citations?user=J_1JzrQAAAAJ&hl=en" target="_blank">Visit My Google Scholar</a>
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: ruoyush
