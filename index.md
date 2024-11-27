@@ -9,7 +9,7 @@ Apart from my research interests, I am proficient in web and mobile development,
 
 
 ## Research Interest
-- Hign Performance Computing
+- High Performance Computing
 - Data Compression
 - Machine Learning
 - AI for Healthcare
