@@ -31,7 +31,7 @@ Longtao Zhang, **Ruoyu Li**, Congrong Ren, Sheng Di, Jinyang Liu, Jiajun Huang, 
 - **Aug. 2023 - Now** Ph.D. Student at the Department of Computer Science *Florida State University*
 
 ## Industry Experience
-- **Jan. 2021 - Aug. 2023** Seniro Software Engineer at *Honor Devices*
+- **Jan. 2021 - Aug. 2023** Senior Software Engineer at *Honor Devices*
 
 - **Dec. 2018 - Dec. 2020** Software Engineer at *Huawei Technologies*
 
