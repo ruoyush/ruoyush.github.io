@@ -22,7 +22,7 @@ title: Ruoyu Li
 email: rli@cs.fsu.edu
 logo: "/assets/img/logo.jpg"
 description: > # this means to ignore newlines until "baseurl:"
-Florida State University
+  Florida State University
 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://ruoyush.github.io" # the base hostname & protocol for your site, e.g. http://example.com
