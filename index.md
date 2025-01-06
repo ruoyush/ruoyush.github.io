@@ -2,7 +2,7 @@
 layout: default
 ---
 
-I am a second-year Ph.D. student at the CS Department, Florida State University, under the supervision of [Prof. Kai Zhao](https://ayzk.github.io/).
+Hi! I am Ruoyu Li and a second-year Ph.D. student at the Department of Computer Science, Florida State University, under the supervision of [Prof. Kai Zhao](https://ayzk.github.io/).
 
 Apart from my research interests, I am proficient in web and mobile development, with a strong passion for technology. As an anime and game fan, I bring creativity and enthusiasm to my projects. Additionally, I am a video after-effects enthusiast.
 
@@ -25,6 +25,7 @@ Apart from my research interests, I am proficient in web and mobile development,
 Longtao Zhang, **Ruoyu Li**, Congrong Ren, Sheng Di, Jinyang Liu, Jiajun Huang, Robert Underwood, Pascal Grosset, Dingwen Tao, Xin Liang, Hanqi Guo, Franck Capello, Kai Zhao
 
 ## Teaching Experience
+- **Spring 2025**  Teaching Assistant for ISC5318 High-Performance Computing
 - **Fall 2024** Teaching Assistant for [CIS 4930/CIS 5930 Computer Vision](https://gaosh.github.io/courses/computer_vision_fall24/)
 
 ## Education Background
