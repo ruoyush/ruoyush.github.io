@@ -2,7 +2,7 @@
 layout: default
 ---
 
-Hi! I am Ruoyu Li and a second-year Ph.D. student at the Department of Computer Science, Florida State University, under the supervision of [Prof. Kai Zhao](https://ayzk.github.io/).
+Hi! I am Ruoyu Li and a third-year Ph.D. student at the Department of Computer Science, Florida State University, under the supervision of [Prof. Kai Zhao](https://ayzk.github.io/).
 
 Apart from my research interests, I am proficient in web and mobile development, with a strong passion for technology. As an anime and game fan, I bring creativity and enthusiasm to my projects. Additionally, I am a video after-effects enthusiast.
 
@@ -20,7 +20,7 @@ Apart from my research interests, I am proficient in web and mobile development,
 
 - **July 2024** Received travel grant to SC'25 as volunteer
 
-- **Apr. 2025** One paper about progressive lossy compression was nominated for the **Best Paper Award** by HPDC 25. Received travel grant to HPDC'25 at University of Norte Dame
+- **Apr. 2025** One paper about progressive lossy compression was nominated for the **Best Paper Award** by HPDC 25.
 
 - **Nov. 2024** Received travel grant to SC'24 at Atlanta
 
@@ -39,7 +39,9 @@ Longtao Zhang, **Ruoyu Li**, Congrong Ren, Sheng Di, Jinyang Liu, Jiajun Huang, 
 - **Fall 2024** Teaching Assistant for [CIS 4930/CIS 5930 Computer Vision](https://gaosh.github.io/courses/computer_vision_fall24/)
 
 ## Education Background
-- **Aug. 2023 - Now** Ph.D. Student at the Department of Computer Science *Florida State University*
+- **2023 - Now** Ph.D. Student at the Department of Computer Science *Florida State University*
+
+- **2016 - 2017** *University of Pittsburgh*
 
 ## Professional Experience
 - **May 2025 - Current** Internship at *Argonne National Laboratory*
