@@ -18,9 +18,9 @@ Apart from my research interests, I am proficient in web and mobile development,
 ## Recent News
 - **Sep. 2025** One paper about GPU lossy compressor submitted to PPOPP'26
 
-- **July 2024** Received travel grant to SC'25 as volunteer
+- **July 2025** Received travel grant to SC'25 as volunteer
 
-- **Apr. 2025** One paper about progressive lossy compression was nominated for the **Best Paper Award** by HPDC 25.
+- **Apr. 2025** One paper about progressive lossy compression was nominated for the **Best Paper Award** by HPDC'25
 
 - **Nov. 2024** Received travel grant to SC'24 at Atlanta
 
