@@ -41,7 +41,9 @@ Longtao Zhang, **Ruoyu Li**, Congrong Ren, Sheng Di, Jinyang Liu, Jiajun Huang, 
 ## Education Background
 - **2023 - Now** Ph.D. Student at the Department of Computer Science *Florida State University*
 
-- **2016 - 2017** *University of Pittsburgh*
+- **2016 - 2017** MS at the School of Computing and Information *University of Pittsburgh*
+<p><a href="https://www.linkedin.com/in/ruoyuli/" target="_blank">Check my Linkedin for details 😊</a></p>
+
 
 ## Professional Experience
 - **May 2025 - Current** Internship at *Argonne National Laboratory*
@@ -49,4 +51,4 @@ Longtao Zhang, **Ruoyu Li**, Congrong Ren, Sheng Di, Jinyang Liu, Jiajun Huang, 
 - **Jan. 2021 - Aug. 2023** Senior Software Engineer at *Honor Devices*
 
 - **Dec. 2018 - Dec. 2020** Software Engineer at *Huawei Technologies*
-
+<p><a href="https://www.linkedin.com/in/ruoyuli/" target="_blank">Check my Linkedin for details 😊</a></p>
