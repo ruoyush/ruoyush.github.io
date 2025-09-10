@@ -43,7 +43,7 @@ Longtao Zhang, **Ruoyu Li**, Congrong Ren, Sheng Di, Jinyang Liu, Jiajun Huang, 
 
 - **2016 - 2017** MS at the School of Computing and Information *University of Pittsburgh*
 
-- <p><a href="https://www.linkedin.com/in/ruoyuli/" target="_blank">Learn more...🔍</a></p>
+- <p><a href="https://www.linkedin.com/in/ruoyuli/" target="_blank">Learn more...</a>🔍</p>
 
 
 ## Professional Experience
@@ -53,4 +53,4 @@ Longtao Zhang, **Ruoyu Li**, Congrong Ren, Sheng Di, Jinyang Liu, Jiajun Huang, 
 
 - **Dec. 2018 - Dec. 2020** Software Engineer at *Huawei Technologies*
 
-- <p><a href="https://www.linkedin.com/in/ruoyuli/" target="_blank">Learn more...🔍</a></p>
+- <p><a href="https://www.linkedin.com/in/ruoyuli/" target="_blank">Learn more...</a>🔍</p>
