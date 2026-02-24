@@ -39,7 +39,7 @@ Longtao Zhang, **Ruoyu Li**, Congrong Ren, Sheng Di, Jinyang Liu, Jiajun Huang, 
 ## Teaching Experience
 - **Spring 2025**  Teaching Assistant for CGS3465 Introduction to Programming Using Python
 
-- **Fall 2024** Teaching Assistant for [CIS 4930/CIS 5930 Computer Vision](https://gaosh.github.io/courses/computer_vision_fall24/)
+- **Fall 2024** Teaching Assistant for [CIS 4930/CIS 5930 Computer Vision](https://gaosh.github.io/courses/)
 
 ## Education Background
 - **2023 - Now** Ph.D. Student at the Department of Computer Science *Florida State University*
