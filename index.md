@@ -16,7 +16,7 @@ Apart from my research interests, I am proficient in web and mobile development,
 - ML System
 
 ## Recent News
-- **Feb. 2026** One paper about GPU acceleration for Particle data is accepted by ICS'26 
+- **Feb. 2026** One paper about GPU acceleration for Particle data compression is accepted by ICS'26 
 
 - **July 2025** Received travel grant to SC'25 as volunteer
 
@@ -27,7 +27,7 @@ Apart from my research interests, I am proficient in web and mobile development,
 - **Oct. 2024** One paper about lossy compression for particles is accepted by SIGMOD'25 
 
 ## Publications
-- **[ICS'26]** [GPZ: GPU-Accelerated Lossy Compressor for Particle Data]<br>
+- **[ICS'26]** GPZ: GPU-Accelerated Lossy Compressor for Particle Data<br>
 **Ruoyu Li**, Yafan Huang, Longtao Zhang, Zhuoxun Yang, Sheng Di, Jiajun Huang, Jinyang Liu, Jiannan Tian, Xin Liang, Guanpeng Li, Hanqi Guo, Franck Cappello, Kai Zhao
 
 - **[HPDC'25]** (Best Paper Nominee) [IPComp: Interpolation Based Progressive Lossy Compression for Scientific Applications.](https://arxiv.org/pdf/2502.04093)<br>
