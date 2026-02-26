@@ -27,13 +27,13 @@ Apart from my research interests, I am proficient in web and mobile development,
 - **Oct. 2024** One paper about lossy compression for particles is accepted by SIGMOD'25 
 
 ## Publications
-- **[ICS'26]** GPZ: GPU-Accelerated Lossy Compressor for Particle Data<br>
+- **[ICS'26]** GPZ: GPU-Accelerated Lossy Compressor for Particle Data [Code](https://github.com/hpdslab/GPZ)<br>
 **Ruoyu Li**, Yafan Huang, Longtao Zhang, Zhuoxun Yang, Sheng Di, Jiajun Huang, Jinyang Liu, Jiannan Tian, Xin Liang, Guanpeng Li, Hanqi Guo, Franck Cappello, Kai Zhao
 
-- **[HPDC'25]** (Best Paper Nominee) [IPComp: Interpolation Based Progressive Lossy Compression for Scientific Applications.](https://arxiv.org/pdf/2502.04093)<br>
+- **[HPDC'25]** (Best Paper Nominee) [IPComp: Interpolation Based Progressive Lossy Compression for Scientific Applications](https://arxiv.org/pdf/2502.04093) [Code](https://github.com/hpdslab/IPComp)<br>
 Zhuoxun Yang, Sheng Di, Longtao Zhang, **Ruoyu Li**, Ximiao Li, Jiajun Huang, Jinyang Liu, Franck Capello, Kai Zhao.
 
-- **[SIGMOD'25]** [LCP: Enhancing Scientific Data Management with Lossy Compression for Particles](https://arxiv.org/abs/2411.00761)<br>
+- **[SIGMOD'25]** [LCP: Enhancing Scientific Data Management with Lossy Compression for Particles](https://arxiv.org/abs/2411.00761) [Code](https://github.com/hpdslab/LCP)<br>
 Longtao Zhang, **Ruoyu Li**, Congrong Ren, Sheng Di, Jinyang Liu, Jiajun Huang, Robert Underwood, Pascal Grosset, Dingwen Tao, Xin Liang, Hanqi Guo, Franck Capello, Kai Zhao
 
 ## Teaching Experience
