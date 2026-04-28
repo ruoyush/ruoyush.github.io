@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="120" height="120">
+  <circle cx="60" cy="60" r="56" fill="none" stroke="#782F40" stroke-width="3"/>
+  <circle cx="60" cy="60" r="48" fill="none" stroke="#782F40" stroke-width="1.5"/>
+  <text x="60" y="54" text-anchor="middle" font-family="Georgia, serif" font-size="18" font-weight="bold" fill="#782F40">FSU</text>
+  <text x="60" y="72" text-anchor="middle" font-family="Georgia, serif" font-size="8" fill="#CEB888">EST. 1851</text>
+  <path d="M30 38 L60 26 L90 38" fill="none" stroke="#CEB888" stroke-width="1.2"/>
+  <path d="M30 82 L60 94 L90 82" fill="none" stroke="#CEB888" stroke-width="1.2"/>
+</svg>

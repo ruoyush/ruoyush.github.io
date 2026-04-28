@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 140 120" width="140" height="120">
+  <circle cx="70" cy="50" r="22" fill="none" stroke="#00843D" stroke-width="2.5"/>
+  <ellipse cx="70" cy="50" rx="38" ry="14" fill="none" stroke="#00843D" stroke-width="1.5" transform="rotate(60 70 50)"/>
+  <ellipse cx="70" cy="50" rx="38" ry="14" fill="none" stroke="#00843D" stroke-width="1.5" transform="rotate(-60 70 50)"/>
+  <circle cx="70" cy="50" r="4" fill="#00843D"/>
+  <text x="70" y="95" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="10" font-weight="bold" fill="#333333" letter-spacing="1">ARGONNE</text>
+  <text x="70" y="108" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="7" fill="#666666">NATIONAL LABORATORY</text>
+</svg>
