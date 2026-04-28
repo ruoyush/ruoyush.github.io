@@ -2,7 +2,7 @@
 layout: default
 ---
 
-Hi! I am Ruoyu Li, a third-year Ph.D. student at the Department of Computer Science, Florida State University, under the supervision of [Prof. Kai Zhao](https://ayzk.github.io/).
+Hi! I am Ruoyu Li, a third-year Ph.D. candidate at the Department of Computer Science, Florida State University, under the supervision of [Prof. Kai Zhao](https://ayzk.github.io/).
 
 Apart from my research interests, I am proficient in web and mobile development, with a strong passion for technology. As an anime and game fan, I bring creativity and enthusiasm to my projects. Additionally, I am a video after-effects enthusiast.
 
@@ -15,6 +15,8 @@ Apart from my research interests, I am proficient in web and mobile development,
 </div>
 
 ## <i class="fa-solid fa-bolt"></i> Recent News
+- **Apr. 2026** One paper about SVD-based data compression is accepted by HPDC'26
+
 - **Feb. 2026** One paper about GPU acceleration for Particle data compression is accepted by ICS'26
 
 - **July 2025** Received travel grant to SC'25 as volunteer
@@ -26,6 +28,9 @@ Apart from my research interests, I am proficient in web and mobile development,
 - **Oct. 2024** One paper about lossy compression for particles is accepted by SIGMOD'25
 
 ## <i class="fa-solid fa-book-open"></i> Publications
+- **[HPDC'26]** TZ: Achieving High-Ratio Scientific Data Compression on GPUs with Global Data Decomposition <a href="" class="code-link"><i class="fa-brands fa-github"></i> Code</a><br>
+**Zhuoxun Yang***, **Ruoyu Li*(co-first author)**, Amit Subrahmanya, Vishwas Rao, Sheng Di, Robert Underwood, Longtao Zhang, Jinyang Liu, Franck Cappello, Kai Zhao
+
 - **[ICS'26]** GPZ: GPU-Accelerated Lossy Compressor for Particle Data <a href="https://github.com/hpdslab/GPZ" class="code-link"><i class="fa-brands fa-github"></i> Code</a><br>
 **Ruoyu Li**, Yafan Huang, Longtao Zhang, Zhuoxun Yang, Sheng Di, Jiajun Huang, Jinyang Liu, Jiannan Tian, Xin Liang, Guanpeng Li, Hanqi Guo, Franck Cappello, Kai Zhao
 
@@ -41,7 +46,7 @@ Longtao Zhang, **Ruoyu Li**, Congrong Ren, Sheng Di, Jinyang Liu, Jiajun Huang, 
 - **Fall 2024** Teaching Assistant for [CIS 4930/CIS 5930 Computer Vision](https://gaosh.github.io/courses/)
 
 ## <i class="fa-solid fa-graduation-cap"></i> Education Background
-- **2023 - Now** Ph.D. Student at the Department of Computer Science, *Florida State University*
+- **2023 - Now** Ph.D. Candidate at the Department of Computer Science, *Florida State University*
 
 - **2016 - 2017** MS at the School of Computing and Information, *University of Pittsburgh*
 
