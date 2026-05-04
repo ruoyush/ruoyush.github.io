@@ -21,7 +21,7 @@ Apart from my research interests, I am proficient in web and mobile development,
 
 - **Apr. 2026** A paper on On-demand Progressive lossy compression was accepted by **HPDC'26**
 
-- **Apr. 2026** A paper on using __generative AI for health-related purposes__, drawing insights from Reddit discussions was accepted by **ICHI'26**
+- **Apr. 2026** A paper on using __generative AI for health-related purposes__, drawing insights from Reddit discussions was accepted by **ICHI'26**,  also Selected as a Top Six Poster at KCHC'2026 (Kentucky Conference on Health Communication) 
 
 - **Feb. 2026** A first-authored paper on GPU acceleration for Particle data compression was accepted by **ICS'26**
 
@@ -43,7 +43,7 @@ Longtao Zhang, **Ruoyu Li**, Zhuoxun Yang, Robert Underwood, Sheng Di, Daoce Wan
 - **[ICS'26]** GPZ: GPU-Accelerated Lossy Compressor for Particle Data <a href="https://github.com/hpdslab/GPZ" class="code-link"><i class="fa-brands fa-github"></i> Code</a><br>
 **Ruoyu Li**, Yafan Huang, Longtao Zhang, Zhuoxun Yang, Sheng Di, Jiajun Huang, Jinyang Liu, Jiannan Tian, Xin Liang, Guanpeng Li, Hanqi Guo, Franck Cappello, Kai Zhao
 
-- **[ICHI'26]** Voices from Reddit: Users’ Experiences and Opinions with Generative AI for Health Problems (Also Selected as a Top Six Poster at KCHC(Kentucky Conference on Health Communication) 2026)  <br>
+- **[ICHI'26]** Voices from Reddit: Users’ Experiences and Opinions with Generative AI for Health Problems <br>
 Yuanying Pang, Lovinta Atrinawati, **Ruoyu Li**, Zhe He, Mia Liza A. Lustria 
 
 - **[HPDC'25]** (Best Paper Nominee) [IPComp: Interpolation Based Progressive Lossy Compression for Scientific Applications](https://arxiv.org/pdf/2502.04093) <a href="https://github.com/hpdslab/IPComp" class="code-link"><i class="fa-brands fa-github"></i> Code</a><br>
