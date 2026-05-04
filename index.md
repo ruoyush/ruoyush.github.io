@@ -15,23 +15,23 @@ Apart from my research interests, I am proficient in web and mobile development,
 </div>
 
 ## <i class="fa-solid fa-bolt"></i> Recent News
-- **May. 2026** Application accepted by ATPESC 2026(Extreme-scale training for extreme-scale science) hosted by Argonne National Lab
+- **May. 2026** Application accepted by **ATPESC 2026(Extreme-scale training program for extreme-scale science)** hosted by Argonne National Lab
 
-- **Apr. 2026** One co-first authored paper about SVD-based data compression is accepted by HPDC'26
+- **Apr. 2026** One co-first authored paper about SVD-based data compression is accepted by **HPDC'26**
 
-- **Apr. 2026** One paper about On-demand Progressive lossy compression is accepted by HPDC'26
+- **Apr. 2026** One paper about On-demand Progressive lossy compression is accepted by **HPDC'26**
 
-- **Apr. 2026** One paper about using generative AI for health-related purposes, drawing insights from Reddit discussions is accepted by ICHI'26
+- **Apr. 2026** One paper about using __generative AI for health-related purposes__, drawing insights from Reddit discussions is accepted by **ICHI'26**
 
-- **Feb. 2026** One first authored paper about GPU acceleration for Particle data compression is accepted by ICS'26
+- **Feb. 2026** One first authored paper about GPU acceleration for Particle data compression is accepted by **ICS'26**
 
-- **July 2025** Application accepted by the SC'25 Volunteer program
+- **July 2025** Application accepted by the **SC'25 Volunteer program**
 
-- **Apr. 2025** One paper about progressive lossy compression was nominated for the **Best Paper Award** by HPDC'25
+- **Apr. 2025** One paper about progressive lossy compression was nominated for the **Best Paper Award** by **HPDC'25**
 
 - **Nov. 2024** Received travel grant to SC'24 at Atlanta
 
-- **Oct. 2024** One paper about lossy compression for particles is accepted by SIGMOD'25
+- **Oct. 2024** One paper about lossy compression for particles is accepted by **SIGMOD'25**
 
 ## <i class="fa-solid fa-book-open"></i> Publications
 - **[HPDC'26]** TZ: Achieving High-Ratio Scientific Data Compression on GPUs with Global Data Decomposition <a href="" class="code-link"><i class="fa-brands fa-github"></i> Code</a><br>
