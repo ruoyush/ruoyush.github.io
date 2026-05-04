@@ -21,7 +21,7 @@ Apart from my research interests, I am proficient in web and mobile development,
 
 - **Apr. 2026** A paper on On-demand Progressive lossy compression was accepted by **HPDC'26**
 
-- **Apr. 2026** A paper on using __generative AI for health-related purposes__, drawing insights from Reddit discussions was accepted by **ICHI'26**,  also Selected as a Top Six Poster at KCHC'2026 (Kentucky Conference on Health Communication) 
+- **Apr. 2026** A paper on using __generative AI for health-related purposes__, drawing insights from Reddit discussions was accepted by **ICHI'26**,  also Selected as a Top Six Poster at **KCHC'2026** (Kentucky Conference on Health Communication) 
 
 - **Feb. 2026** A first-authored paper on GPU acceleration for Particle data compression was accepted by **ICS'26**
 

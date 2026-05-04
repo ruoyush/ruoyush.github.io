@@ -170,6 +170,42 @@
   wrapper.innerHTML = '';
   wrapper.appendChild(fragment);
 
+  // === News Collapse ===
+  var VISIBLE_COUNT = 6;
+  var newsCard = document.getElementById('news');
+  if (newsCard) {
+    var newsList = newsCard.querySelector('ul');
+    if (newsList) {
+      var items = Array.prototype.slice.call(newsList.children);
+      if (items.length > VISIBLE_COUNT) {
+        var collapsible = document.createElement('div');
+        collapsible.className = 'news-collapsible';
+        for (var i = VISIBLE_COUNT; i < items.length; i++) {
+          collapsible.appendChild(items[i]);
+        }
+        newsList.appendChild(collapsible);
+
+        var toggleBtn = document.createElement('button');
+        toggleBtn.className = 'news-toggle';
+        toggleBtn.innerHTML = '<span class="news-toggle-text">Show ' + (items.length - VISIBLE_COUNT) + ' more</span><i class="fa-solid fa-chevron-down news-toggle-icon"></i>';
+        newsCard.appendChild(toggleBtn);
+
+        toggleBtn.addEventListener('click', function () {
+          var expanded = collapsible.classList.toggle('expanded');
+          if (expanded) {
+            collapsible.style.maxHeight = collapsible.scrollHeight + 'px';
+            toggleBtn.querySelector('.news-toggle-text').textContent = 'Show less';
+            toggleBtn.classList.add('expanded');
+          } else {
+            collapsible.style.maxHeight = '0px';
+            toggleBtn.querySelector('.news-toggle-text').textContent = 'Show ' + (items.length - VISIBLE_COUNT) + ' more';
+            toggleBtn.classList.remove('expanded');
+          }
+        });
+      }
+    }
+  }
+
   // === Side Nav: Visibility + Scroll Spy ===
   var sideNav = document.getElementById('side-nav');
   var hero = document.querySelector('.hero');
