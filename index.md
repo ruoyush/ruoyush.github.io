@@ -25,7 +25,7 @@ Apart from my research interests, I am proficient in web and mobile development,
 
 - **Feb. 2026** One first authored paper about GPU acceleration for Particle data compression is accepted by ICS'26
 
-- **July 2025** Received travel grant to SC'25 as volunteer
+- **July 2025** Application accepted by the SC'25 Volunteer program
 
 - **Apr. 2025** One paper about progressive lossy compression was nominated for the **Best Paper Award** by HPDC'25
 
