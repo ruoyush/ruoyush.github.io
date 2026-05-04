@@ -15,9 +15,15 @@ Apart from my research interests, I am proficient in web and mobile development,
 </div>
 
 ## <i class="fa-solid fa-bolt"></i> Recent News
-- **Apr. 2026** One paper about SVD-based data compression is accepted by HPDC'26
+- **May. 2026** Application accepted by ATPESC 2026(Extreme-scale training for extreme-scale science) hosted by Argonne National Lab
 
-- **Feb. 2026** One paper about GPU acceleration for Particle data compression is accepted by ICS'26
+- **Apr. 2026** One co-first authored paper about SVD-based data compression is accepted by HPDC'26
+
+- **Apr. 2026** One paper about On-demand Progressive lossy compression is accepted by HPDC'26
+
+- **Apr. 2026** One paper about using generative AI for health-related purposes, drawing insights from Reddit discussions is accepted by ICHI'26
+
+- **Feb. 2026** One first authored paper about GPU acceleration for Particle data compression is accepted by ICS'26
 
 - **July 2025** Received travel grant to SC'25 as volunteer
 
@@ -31,8 +37,14 @@ Apart from my research interests, I am proficient in web and mobile development,
 - **[HPDC'26]** TZ: Achieving High-Ratio Scientific Data Compression on GPUs with Global Data Decomposition <a href="" class="code-link"><i class="fa-brands fa-github"></i> Code</a><br>
 **Zhuoxun Yang***, **Ruoyu Li*(co-first author)**, Amit Subrahmanya, Vishwas Rao, Sheng Di, Robert Underwood, Longtao Zhang, Jinyang Liu, Franck Cappello, Kai Zhao
 
+- **[HPDC'26]** OPAL: On-demand Progressive Accelerated Scientific Lossy Compression <a href="" class="code-link"><i class="fa-brands fa-github"></i> Code</a><br>
+Longtao Zhang, **Ruoyu Li**, Zhuoxun Yang, Robert Underwood, Sheng Di, Daoce Wang, Jinyang Liu, Jiajun Huang, Franck Cappello, Kai Zhao
+
 - **[ICS'26]** GPZ: GPU-Accelerated Lossy Compressor for Particle Data <a href="https://github.com/hpdslab/GPZ" class="code-link"><i class="fa-brands fa-github"></i> Code</a><br>
 **Ruoyu Li**, Yafan Huang, Longtao Zhang, Zhuoxun Yang, Sheng Di, Jiajun Huang, Jinyang Liu, Jiannan Tian, Xin Liang, Guanpeng Li, Hanqi Guo, Franck Cappello, Kai Zhao
+
+- **[ICHI'26]** Voices from Reddit: Users’ Experiences and Opinions with Generative AI for Health Problems (Also Selected as a Top Six Poster at KCHC(Kentucky Conference on Health Communication) 2026)  <br>
+Yuanying Pang, Lovinta Atrinawati, **Ruoyu Li**, Zhe He, Mia Liza A. Lustria 
 
 - **[HPDC'25]** (Best Paper Nominee) [IPComp: Interpolation Based Progressive Lossy Compression for Scientific Applications](https://arxiv.org/pdf/2502.04093) <a href="https://github.com/hpdslab/IPComp" class="code-link"><i class="fa-brands fa-github"></i> Code</a><br>
 Zhuoxun Yang, Sheng Di, Longtao Zhang, **Ruoyu Li**, Ximiao Li, Jiajun Huang, Jinyang Liu, Franck Capello, Kai Zhao.
