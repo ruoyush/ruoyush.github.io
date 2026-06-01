@@ -143,7 +143,7 @@
   bioCard.id = 'about';
   var currentCard = null;
   var hitH2 = false;
-  var sectionIds = ['news', 'publications', 'teaching', 'education', 'experience'];
+  var sectionIds = ['news', 'publications', 'awards', 'teaching', 'education', 'experience'];
   var sectionIdx = 0;
 
   children.forEach(function (child) {

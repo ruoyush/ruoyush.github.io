@@ -55,9 +55,9 @@ Zhuoxun Yang, Sheng Di, Longtao Zhang, **Ruoyu Li**, Ximiao Li, Jiajun Huang, Ji
 Longtao Zhang, **Ruoyu Li**, Congrong Ren, Sheng Di, Jinyang Liu, Jiajun Huang, Robert Underwood, Pascal Grosset, Dingwen Tao, Xin Liang, Hanqi Guo, Franck Capello, Kai Zhao
 
 ## <i class="fa-solid fa-trophy"></i> Awards
-- **HPDC'25 Best Paper Award Nominee** for "IPComp: Interpolation Based Progressive Lossy Compression for Scientific Applications"
+- **Jun. 2026** **Dean's Award for Doctoral Excellence** & Naaman Franklin Faile Jr. Graduate Fellowship ($3,000/year for 3 years), Department of Computer Science, *Florida State University*
 
-- **Dean's Award for Doctoral Excellence** & Naaman Franklin Faile Jr. Graduate Fellowship ($3,000/year for 3 years), Department of Computer Science, *Florida State University*
+- **Apr. 2025** **HPDC'25 Best Paper Award Nominee** for "IPComp: Interpolation Based Progressive Lossy Compression for Scientific Applications"
 
 ## <i class="fa-solid fa-chalkboard-user"></i> Teaching Experience
 - **Spring 2025**  Teaching Assistant for CGS3465 Introduction to Programming Using Python

@@ -348,6 +348,7 @@ pre {
   &:nth-child(4) { animation-delay: 0.24s; }
   &:nth-child(5) { animation-delay: 0.32s; }
   &:nth-child(6) { animation-delay: 0.40s; }
+  &:nth-child(7) { animation-delay: 0.48s; }
 
   // Education + Experience: side by side
   &:nth-last-child(-n+2):not(:first-child) {
