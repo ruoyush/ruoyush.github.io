@@ -15,6 +15,8 @@ Apart from my research interests, I am proficient in web and mobile development,
 </div>
 
 ## <i class="fa-solid fa-bolt"></i> Recent News
+- **Jun. 2026** Received **Dean's Award for Doctoral Excellence** and Naaman Franklin Faile Jr. Graduate Fellowship from Florida State University
+
 - **May. 2026** Application accepted by **ATPESC 2026(Extreme-scale training program for extreme-scale science)** hosted by Argonne National Lab
 
 - **Apr. 2026** A co-first-authored paper on SVD-based data compression was accepted by **HPDC'26**
@@ -51,6 +53,11 @@ Zhuoxun Yang, Sheng Di, Longtao Zhang, **Ruoyu Li**, Ximiao Li, Jiajun Huang, Ji
 
 - **[SIGMOD'25]** [LCP: Enhancing Scientific Data Management with Lossy Compression for Particles](https://arxiv.org/abs/2411.00761) <a href="https://github.com/hpdslab/LCP" class="code-link"><i class="fa-brands fa-github"></i> Code</a><br>
 Longtao Zhang, **Ruoyu Li**, Congrong Ren, Sheng Di, Jinyang Liu, Jiajun Huang, Robert Underwood, Pascal Grosset, Dingwen Tao, Xin Liang, Hanqi Guo, Franck Capello, Kai Zhao
+
+## <i class="fa-solid fa-trophy"></i> Awards
+- **HPDC'25 Best Paper Award Nominee** for "IPComp: Interpolation Based Progressive Lossy Compression for Scientific Applications"
+
+- **Dean's Award for Doctoral Excellence** & Naaman Franklin Faile Jr. Graduate Fellowship ($3,000/year for 3 years), Department of Computer Science, *Florida State University*
 
 ## <i class="fa-solid fa-chalkboard-user"></i> Teaching Experience
 - **Spring 2025**  Teaching Assistant for CGS3465 Introduction to Programming Using Python
