@@ -59,6 +59,9 @@ Longtao Zhang, **Ruoyu Li**, Congrong Ren, Sheng Di, Jinyang Liu, Jiajun Huang, 
 
 - **Apr. 2025** **HPDC'25 Best Paper Award Nominee** for "IPComp: Interpolation Based Progressive Lossy Compression for Scientific Applications"
 
+## <i class="fa-solid fa-hand-holding-hand"></i> Academic Services
+- Reviewer: JPDC, TPDS
+ 
 ## <i class="fa-solid fa-chalkboard-user"></i> Teaching Experience
 - **Spring 2025**  Teaching Assistant for CGS3465 Introduction to Programming Using Python
 
