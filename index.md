@@ -40,7 +40,8 @@ Apart from my research interests, I am proficient in web and mobile development,
 Youyuan Liu, Longtao Zhang, **Ruoyu Li**, Bo Jiang, Taolue Yang, Kai Zhao, Sheng Di, Eduard Dragut, Sian Jin
 
 - **[HPDC'26]** TZ: Achieving High-Ratio Scientific Data Compression on GPUs with Global Data Decomposition <a href="" class="code-link"><i class="fa-brands fa-github"></i> Code</a><br>
-
+**Zhuoxun Yang***, **Ruoyu Li*(co-first author)**, Amit Subrahmanya, Vishwas Rao, Sheng Di, Robert Underwood, Longtao Zhang, Jinyang Liu, Franck Cappello, Kai Zhao
+  
 - **[HPDC'26]** OPAL: On-demand Progressive Accelerated Scientific Lossy Compression <a href="" class="code-link"><i class="fa-brands fa-github"></i> Code</a><br>
 Longtao Zhang, **Ruoyu Li**, Zhuoxun Yang, Robert Underwood, Sheng Di, Daoce Wang, Jinyang Liu, Jiajun Huang, Franck Cappello, Kai Zhao
 
