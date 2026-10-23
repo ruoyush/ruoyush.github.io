@@ -39,6 +39,8 @@ Apart from my research interests, I am proficient in web and mobile development,
 - **[VLDB'26]** Error-bounded Point Cloud Compression Using Truncated Octahedron Quantization <a href="" class="code-link"><i class="fa-brands fa-github"></i> Code</a><br>
 Youyuan Liu, Longtao Zhang, **Ruoyu Li**, Bo Jiang, Taolue Yang, Kai Zhao, Sheng Di, Eduard Dragut, Sian Jin
 
+- **[HPDC'26]** TZ: Achieving High-Ratio Scientific Data Compression on GPUs with Global Data Decomposition <a href="" class="code-link"><i class="fa-brands fa-github"></i> Code</a><br>
+
 - **[HPDC'26]** OPAL: On-demand Progressive Accelerated Scientific Lossy Compression <a href="" class="code-link"><i class="fa-brands fa-github"></i> Code</a><br>
 Longtao Zhang, **Ruoyu Li**, Zhuoxun Yang, Robert Underwood, Sheng Di, Daoce Wang, Jinyang Liu, Jiajun Huang, Franck Cappello, Kai Zhao
 
@@ -54,16 +56,16 @@ Zhuoxun Yang, Sheng Di, Longtao Zhang, **Ruoyu Li**, Ximiao Li, Jiajun Huang, Ji
 - **[SIGMOD'25]** [LCP: Enhancing Scientific Data Management with Lossy Compression for Particles](https://arxiv.org/abs/2411.00761) <a href="https://github.com/hpdslab/LCP" class="code-link"><i class="fa-brands fa-github"></i> Code</a><br>
 Longtao Zhang, **Ruoyu Li**, Congrong Ren, Sheng Di, Jinyang Liu, Jiajun Huang, Robert Underwood, Pascal Grosset, Dingwen Tao, Xin Liang, Hanqi Guo, Franck Capello, Kai Zhao
 
-## <i class="fa-solid fa-trophy"></i> Awards
+## <i class="fa-solid fa-trophy"></i> Awards and Grants
 - **Jun. 2026** **Dean's Award for Doctoral Excellence** & Naaman Franklin Faile Jr. Graduate Fellowship ($3,000/year for 3 years), Department of Computer Science, *Florida State University*
 
 - **Apr. 2025** **HPDC'25 Best Paper Award Nominee** for "IPComp: Interpolation Based Progressive Lossy Compression for Scientific Applications"
 
 ## <i class="fa-solid fa-hand-holding-hand"></i> Academic Services
-- Reviewer:
+- **Reviewer**
   - Journal of Parallel and Distributed Computing(JPDC)
   - IEEE Transactions on Parallel and Distributed Systems(TPDS)
-- Program Committee:
+- **Program Committee**
   - ACM International Conference on Supercomputing(ICS) 2027
  
 ## <i class="fa-solid fa-chalkboard-user"></i> Teaching Experience
