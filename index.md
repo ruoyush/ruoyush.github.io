@@ -45,16 +45,16 @@ Youyuan Liu, Longtao Zhang, **Ruoyu Li**, Bo Jiang, Taolue Yang, Kai Zhao, Sheng
 - **[HPDC'26]** OPAL: On-demand Progressive Accelerated Scientific Lossy Compression <a href="" class="code-link"><i class="fa-brands fa-github"></i> Code</a><br>
 Longtao Zhang, **Ruoyu Li**, Zhuoxun Yang, Robert Underwood, Sheng Di, Daoce Wang, Jinyang Liu, Jiajun Huang, Franck Cappello, Kai Zhao
 
-- **[ICS'26]** GPZ: GPU-Accelerated Lossy Compressor for Particle Data <a href="https://github.com/hpdslab/GPZ" class="code-link"><i class="fa-brands fa-github"></i> Code</a><br>
+- **[ICS'26]** [GPZ: GPU-Accelerated Lossy Compressor for Particle Data](https://dl.acm.org/doi/10.1145/3797905.3800524) <a href="https://github.com/hpdslab/GPZ" class="code-link"><i class="fa-brands fa-github"></i> Code</a><br>
 **Ruoyu Li**, Yafan Huang, Longtao Zhang, Zhuoxun Yang, Sheng Di, Jiajun Huang, Jinyang Liu, Jiannan Tian, Xin Liang, Guanpeng Li, Hanqi Guo, Franck Cappello, Kai Zhao
 
 - **[ICHI'26]** Voices from Reddit: Users’ Experiences and Opinions with Generative AI for Health Problems <br>
 Yuanying Pang, Lovinta Atrinawati, **Ruoyu Li**, Zhe He, Mia Liza A. Lustria 
 
-- **[HPDC'25]** (Best Paper Nominee) [IPComp: Interpolation Based Progressive Lossy Compression for Scientific Applications](https://arxiv.org/pdf/2502.04093) <a href="https://github.com/hpdslab/IPComp" class="code-link"><i class="fa-brands fa-github"></i> Code</a><br>
+- **[HPDC'25]** (Best Paper Nominee) [IPComp: Interpolation Based Progressive Lossy Compression for Scientific Applications](https://dl.acm.org/doi/10.1145/3731545.3731578) <a href="https://github.com/hpdslab/IPComp" class="code-link"><i class="fa-brands fa-github"></i> Code</a><br>
 Zhuoxun Yang, Sheng Di, Longtao Zhang, **Ruoyu Li**, Ximiao Li, Jiajun Huang, Jinyang Liu, Franck Capello, Kai Zhao.
 
-- **[SIGMOD'25]** [LCP: Enhancing Scientific Data Management with Lossy Compression for Particles](https://arxiv.org/abs/2411.00761) <a href="https://github.com/hpdslab/LCP" class="code-link"><i class="fa-brands fa-github"></i> Code</a><br>
+- **[SIGMOD'25]** [LCP: Enhancing Scientific Data Management with Lossy Compression for Particles](https://dl.acm.org/doi/10.1145/3709700) <a href="https://github.com/hpdslab/LCP" class="code-link"><i class="fa-brands fa-github"></i> Code</a><br>
 Longtao Zhang, **Ruoyu Li**, Congrong Ren, Sheng Di, Jinyang Liu, Jiajun Huang, Robert Underwood, Pascal Grosset, Dingwen Tao, Xin Liang, Hanqi Guo, Franck Capello, Kai Zhao
 
 ## <i class="fa-solid fa-trophy"></i> Awards and Grants
