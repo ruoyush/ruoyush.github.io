@@ -36,8 +36,8 @@ Apart from my research interests, I am proficient in web and mobile development,
 - **Oct. 2024** A paper on lossy compression for particles was accepted by **SIGMOD'25**
 
 ## <i class="fa-solid fa-book-open"></i> Publications
-- **[HPDC'26]** TZ: Achieving High-Ratio Scientific Data Compression on GPUs with Global Data Decomposition <a href="" class="code-link"><i class="fa-brands fa-github"></i> Code</a><br>
-**Zhuoxun Yang***, **Ruoyu Li*(co-first author)**, Amit Subrahmanya, Vishwas Rao, Sheng Di, Robert Underwood, Longtao Zhang, Jinyang Liu, Franck Cappello, Kai Zhao
+- **[VLDB'26]** Error-bounded Point Cloud Compression Using Truncated Octahedron Quantization <a href="" class="code-link"><i class="fa-brands fa-github"></i> Code</a><br>
+Youyuan Liu, Longtao Zhang, **Ruoyu Li**, Bo Jiang, Taolue Yang, Kai Zhao, Sheng Di, Eduard Dragut, Sian Jin
 
 - **[HPDC'26]** OPAL: On-demand Progressive Accelerated Scientific Lossy Compression <a href="" class="code-link"><i class="fa-brands fa-github"></i> Code</a><br>
 Longtao Zhang, **Ruoyu Li**, Zhuoxun Yang, Robert Underwood, Sheng Di, Daoce Wang, Jinyang Liu, Jiajun Huang, Franck Cappello, Kai Zhao
@@ -60,8 +60,11 @@ Longtao Zhang, **Ruoyu Li**, Congrong Ren, Sheng Di, Jinyang Liu, Jiajun Huang, 
 - **Apr. 2025** **HPDC'25 Best Paper Award Nominee** for "IPComp: Interpolation Based Progressive Lossy Compression for Scientific Applications"
 
 ## <i class="fa-solid fa-hand-holding-hand"></i> Academic Services
-- Reviewer: JPDC, TPDS
-- Program Committee: ICS'27 (Junior PC member)
+- Reviewer:
+  - Journal of Parallel and Distributed Computing(JPDC)
+  - IEEE Transactions on Parallel and Distributed Systems(TPDS)
+- Program Committee:
+  - ACM International Conference on Supercomputing(ICS) 2027
  
 ## <i class="fa-solid fa-chalkboard-user"></i> Teaching Experience
 - **Spring 2025**  Teaching Assistant for CGS3465 Introduction to Programming Using Python
